@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! I'm Vishvaditya 👋
 
 <!--
 **Vishvaditya/Vishvaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently pursuing my MS in Computer Science at UC Riverside and exploring how AI can make the world a smarter place.
+
+Before grad school, I spent two years at ZS Associates, building AI/ML workflows that helped Fortune 500 companies turn mountains of data into real business impact. Along the way, I also got my hands deep into research — working on self-supervised learning, segmentation models, and computer vision for medical imaging.
+
+These days, I'm diving into embodied agents, teaching AI how to move, think, and act in dynamic environments. Always building, always learning!
+
